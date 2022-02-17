@@ -25,3 +25,9 @@ gradle publish
 или в консоли
 
 ./gradlew publish
+
+
+
+Дока:
+https://developer.android.com/studio/projects/android-library
+https://developer.android.com/studio/build/maven-publish-plugin
