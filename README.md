@@ -28,6 +28,8 @@ gradle publish
 
 
 
+
+
 Дока:
 https://developer.android.com/studio/projects/android-library
 
